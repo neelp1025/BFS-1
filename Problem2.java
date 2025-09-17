@@ -1,5 +1,5 @@
 // Time Complexity : O(v + e)
-// Space Complexity : O(n)
+// Space Complexity : O(v + e)
 // Did this code successfully run on Leetcode : yes
 // Any problem you faced while coding this : no
 
